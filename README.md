@@ -12,7 +12,7 @@ Built for CTF and Pentesting purposes.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/update-hosts-tool.git
+   git clone https://github.com/kcnaiamh/update-hosts-tool.git
    cd update-hosts-tool
    ```
 2. **Build the Tool**:
